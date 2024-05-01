@@ -11,10 +11,9 @@
   font-family: 'Oswald', sans-serif;
 }
 
-/*
 .theme--dark.v-icon {
-    color: #E34234;
-}*/
+    color: #D60000;
+}
 
 /* This selector targets .v-image__image.v-image__image--cover but excludes instances where it's a descendant of .v-main__wrap 
 disable
