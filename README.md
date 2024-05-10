@@ -18,6 +18,7 @@ bash ~/Mainsail_Theme/install.sh
 type: git_repo
 path: ~/Mainsail_Theme
 origin: https://github.com/V1EngineeringInc/Mainsail_Theme.git
+primary_branch: main
 install_script: install.sh
 is_system_service: False
 ```
